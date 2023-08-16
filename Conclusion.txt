@@ -1,0 +1,21 @@
+refresh the  login page, info gone?
+token?cookies? how to store? what is the purpose
+jwt?
+upload  photos dir?
+
+
+the whole process?
+
+my Accommodations
+
+
+console.log(userData.id);   // This will be the string representation of _id
+console.log(userData._id);  // This will be the ObjectId of _id
+
+Conclusion:
+1.backend
+express/cors/mongoose-connect/axios-get_post_put/JWT-user_verify/cookie-parser/image-downloader/multer
+2.frontend
+axios/route/tailwind.css/useState_useEffect_useParameter/Link_Nevigate_useLocation
+3.Mongodb
+moogoose->schema->model export
